@@ -7,7 +7,7 @@ Cheap web hosting can offer a variety of features at a lower price than more exp
 
 ### **_HostGator_**
 
-[![HostGator](get-web-button.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com)
+[![HostGator](get-web-hosting.png)](http://microsoft365.com.setup.s3-website-us-west-1.amazonaws.com)
 
 HostGator Hosting has a reputation for offering faster speeds than most shared hosts. It’s also quite affordable and user-friendly for beginners. With tons of website templates, you can start your site in just minutes. HostGator is perfect for designers who want complete control over their site. Their plans are backed by a 99% uptime guarantee with an SLA promise that includes monthly data backups and one hour of free customer support per month.
 
